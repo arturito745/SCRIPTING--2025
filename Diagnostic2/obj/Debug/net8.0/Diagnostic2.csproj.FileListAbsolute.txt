@@ -1,0 +1,15 @@
+C:\Users\B15S401est\Desktop\SCRIPTING--2025\Diagnostic2\bin\Debug\net8.0\Diagnostic2.exe
+C:\Users\B15S401est\Desktop\SCRIPTING--2025\Diagnostic2\bin\Debug\net8.0\Diagnostic2.deps.json
+C:\Users\B15S401est\Desktop\SCRIPTING--2025\Diagnostic2\bin\Debug\net8.0\Diagnostic2.runtimeconfig.json
+C:\Users\B15S401est\Desktop\SCRIPTING--2025\Diagnostic2\bin\Debug\net8.0\Diagnostic2.dll
+C:\Users\B15S401est\Desktop\SCRIPTING--2025\Diagnostic2\bin\Debug\net8.0\Diagnostic2.pdb
+C:\Users\B15S401est\Desktop\SCRIPTING--2025\Diagnostic2\obj\Debug\net8.0\Diagnostic2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B15S401est\Desktop\SCRIPTING--2025\Diagnostic2\obj\Debug\net8.0\Diagnostic2.AssemblyInfoInputs.cache
+C:\Users\B15S401est\Desktop\SCRIPTING--2025\Diagnostic2\obj\Debug\net8.0\Diagnostic2.AssemblyInfo.cs
+C:\Users\B15S401est\Desktop\SCRIPTING--2025\Diagnostic2\obj\Debug\net8.0\Diagnostic2.csproj.CoreCompileInputs.cache
+C:\Users\B15S401est\Desktop\SCRIPTING--2025\Diagnostic2\obj\Debug\net8.0\Diagnostic2.sourcelink.json
+C:\Users\B15S401est\Desktop\SCRIPTING--2025\Diagnostic2\obj\Debug\net8.0\Diagnostic2.dll
+C:\Users\B15S401est\Desktop\SCRIPTING--2025\Diagnostic2\obj\Debug\net8.0\refint\Diagnostic2.dll
+C:\Users\B15S401est\Desktop\SCRIPTING--2025\Diagnostic2\obj\Debug\net8.0\Diagnostic2.pdb
+C:\Users\B15S401est\Desktop\SCRIPTING--2025\Diagnostic2\obj\Debug\net8.0\Diagnostic2.genruntimeconfig.cache
+C:\Users\B15S401est\Desktop\SCRIPTING--2025\Diagnostic2\obj\Debug\net8.0\ref\Diagnostic2.dll

@@ -1,0 +1,14 @@
+C:\Users\B15S401est\source\repos\Diagnostico3\bin\Debug\net8.0\Diagnostico3.exe
+C:\Users\B15S401est\source\repos\Diagnostico3\bin\Debug\net8.0\Diagnostico3.deps.json
+C:\Users\B15S401est\source\repos\Diagnostico3\bin\Debug\net8.0\Diagnostico3.runtimeconfig.json
+C:\Users\B15S401est\source\repos\Diagnostico3\bin\Debug\net8.0\Diagnostico3.dll
+C:\Users\B15S401est\source\repos\Diagnostico3\bin\Debug\net8.0\Diagnostico3.pdb
+C:\Users\B15S401est\source\repos\Diagnostico3\obj\Debug\net8.0\Diagnostico3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B15S401est\source\repos\Diagnostico3\obj\Debug\net8.0\Diagnostico3.AssemblyInfoInputs.cache
+C:\Users\B15S401est\source\repos\Diagnostico3\obj\Debug\net8.0\Diagnostico3.AssemblyInfo.cs
+C:\Users\B15S401est\source\repos\Diagnostico3\obj\Debug\net8.0\Diagnostico3.csproj.CoreCompileInputs.cache
+C:\Users\B15S401est\source\repos\Diagnostico3\obj\Debug\net8.0\Diagnostico3.dll
+C:\Users\B15S401est\source\repos\Diagnostico3\obj\Debug\net8.0\refint\Diagnostico3.dll
+C:\Users\B15S401est\source\repos\Diagnostico3\obj\Debug\net8.0\Diagnostico3.pdb
+C:\Users\B15S401est\source\repos\Diagnostico3\obj\Debug\net8.0\Diagnostico3.genruntimeconfig.cache
+C:\Users\B15S401est\source\repos\Diagnostico3\obj\Debug\net8.0\ref\Diagnostico3.dll
